@@ -21,7 +21,7 @@ public class ConexaoMySQL {
     
     private static final String urlDb = "jdbc:mysql://localhost:3306/perseus_db";
     private static final String userDb = "root";
-    private static final String passDb = "Hu3ll!nt0n";
+    private static final String passDb = "root";
     
     private static Connection conn;
     
